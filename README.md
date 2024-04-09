@@ -4,7 +4,7 @@ Love to code and create new projects.
 
 * 🌍  I'm based in India 
 * 🖥️  See my portfolio at [Portfolio](https://react-framer-portfolio.netlify.app/)
-* 👨‍💻  I'm currently working on [Medium_Clone](https://github.com/Neerajd3vv/Medium_blog_app)
+* 👨‍💻  I'm currently working on [Medium_Clone](https://github.com/Neerajd3vv/Medium_App)
 * ✉️  You can reach me at [neerajwdev@gmail.com](mailto:neerajwdev@gmail.com)
 * 🧠  I'm currently learning Next js
 * 🤝  I'm open to collaborating on intresting projects
